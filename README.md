@@ -24,7 +24,7 @@ Developed by: Jayapriya P
 RegisterNumber: 212225040144
 */
 ```
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 x = np.array([1, 2, 3, 4, 5])
